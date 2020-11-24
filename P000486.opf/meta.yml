@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS45961
   title: ཉག་བླ་རང་རིག་རྡོ་རྗེའི་རྣམ་ཐར་དང་མགུར་འབུམ
-  volume: ''
+  volume:
+    ee2f263a494d4e54bc35fbf361951d4a:
+      image_group_id: I1GS45964
+      title: Volume 1 of nyag bla rang rig rdo rje'i rnam thar dang mgur 'bum
+      volume_number: 1
+      total_pages: 374
   author: ''
+ebook_metadata:
+  title: ཉག་བླ་རང་རིག་རྡོ་རྗེའི་རྣམ་ཐར་དང་མགུར་འབུམ
+  author: ''
+  sku: P000486
+  cover: cover.jpg
+  layers:
+  - pagination
